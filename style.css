@@ -42,6 +42,7 @@ section{
   position: absolute;
   right: 25%;
     top: -9%;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .imgs{
   transform:scaleX(-1);
